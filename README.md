@@ -25,12 +25,12 @@ will result
     Kevin Drew		http://last.fm//music/Kevin+Drew 
     Raleigh Ritchie		http://last.fm//music/Raleigh+Ritchie 
     Matrimony		http://last.fm//music/Matrimony 
-    Delay Trees		http://last.fm//music/Delay+Trees 
-    Jett Rebel		http://last.fm//music/Jett+Rebel 
-    Broncho		http://last.fm//music/Broncho 
-    Marijuana Deathsquads		http://last.fm//music/Marijuana+Deathsquads 
-    Cherry Glazerr		http://last.fm//music/Cherry+Glazerr 
-    Ed Harcourt		http://last.fm//music/Ed+Harcourt 
-    Redbird		http://last.fm//music/Redbird 
-    You Blew It!		http://last.fm//music/You+Blew+It! 
-    Quilt		http://last.fm//music/Quilt 
+
+
+
+Todo
+------------
+
+- make a selectable cli list
+- cache results
+- create a playlist from youtube
